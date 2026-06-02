@@ -1,0 +1,14 @@
+{
+  "name": "Life 360",
+  "short_name": "Life 360",
+  "description": "La tua vita a 360 gradi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0014",
+  "theme_color": "#0d0014",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "
